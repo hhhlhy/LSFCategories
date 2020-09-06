@@ -1,0 +1,6 @@
+framework module LSFCategories {
+  umbrella header "LSFCategories-umbrella.h"
+
+  export *
+  module * { export * }
+}

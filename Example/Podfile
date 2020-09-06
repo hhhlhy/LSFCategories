@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'LSFCategories_Example' do
+  pod 'LSFCategories', :path => '../'
+
+  target 'LSFCategories_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

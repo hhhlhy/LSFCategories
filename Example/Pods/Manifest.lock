@@ -1,0 +1,16 @@
+PODS:
+  - LSFCategories (0.1.0)
+
+DEPENDENCIES:
+  - LSFCategories (from `../`)
+
+EXTERNAL SOURCES:
+  LSFCategories:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LSFCategories: 35c3d3fa56735badad642e5990922ba40a02a7fb
+
+PODFILE CHECKSUM: 524c629477d383fb52c7d6a835166e6284e2999c
+
+COCOAPODS: 1.7.5
